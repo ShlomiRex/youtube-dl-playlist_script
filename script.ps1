@@ -1,0 +1,10 @@
+.\youtube-dl.exe --download-archive downloaded_1.txt --no-post-overwrites -ciwx --audio-format mp3 -o "/1/%(title)s.%(ext)s" https://www.youtube.com/playlist?list=PLyBa1V5iq3JQHHJTvjfcXRFT6EEiwhkkJ
+.\youtube-dl.exe --download-archive downloaded_2.txt --no-post-overwrites -ciwx --audio-format mp3 -o "/2/%(title)s.%(ext)s" https://www.youtube.com/playlist?list=PLyBa1V5iq3JR7s9QUnqCJNhJD0yG5Ow_w
+.\youtube-dl.exe --download-archive downloaded_3.txt --no-post-overwrites -ciwx --audio-format mp3 -o "/3/%(title)s.%(ext)s" https://www.youtube.com/playlist?list=PLyBa1V5iq3JSl4Hl1Y0qn938OyxDvYifc
+.\youtube-dl.exe --download-archive downloaded_4.txt --no-post-overwrites -ciwx --audio-format mp3 -o "/4/%(title)s.%(ext)s" https://www.youtube.com/playlist?list=PLyBa1V5iq3JT9A8a_lbqKj3riyCBOEqtW
+.\youtube-dl.exe --download-archive downloaded_5.txt --no-post-overwrites -ciwx --audio-format mp3 -o "/5/%(title)s.%(ext)s" https://www.youtube.com/playlist?list=PLyBa1V5iq3JS3IKqwMO0yZgFHiNZr_XHr
+.\youtube-dl.exe --download-archive downloaded_6.txt --no-post-overwrites -ciwx --audio-format mp3 -o "/6/%(title)s.%(ext)s" https://www.youtube.com/playlist?list=PLyBa1V5iq3JQkQuFWNyoURKWfq9fs20as
+.\youtube-dl.exe --download-archive downloaded_7.txt --no-post-overwrites -ciwx --audio-format mp3 -o "/7/%(title)s.%(ext)s" https://www.youtube.com/playlist?list=PLyBa1V5iq3JQtD01N8qzJxioCczd7fFzY
+.\youtube-dl.exe --download-archive downloaded_8.txt --no-post-overwrites -ciwx --audio-format mp3 -o "/8/%(title)s.%(ext)s" https://www.youtube.com/playlist?list=PLyBa1V5iq3JTuaR-OdKuFM6IIgoWh67fk
+.\youtube-dl.exe --download-archive downloaded_9.txt --no-post-overwrites -ciwx --audio-format mp3 -o "/9/%(title)s.%(ext)s" https://www.youtube.com/playlist?list=PLyBa1V5iq3JQwsCZR8BUb0XkT9VWRM4Kc
+.\youtube-dl.exe --download-archive downloaded_10.txt --no-post-overwrites -ciwx --audio-format mp3 -o "/10/%(title)s.%(ext)s" https://www.youtube.com/playlist?list=PLyBa1V5iq3JSEzNxz-T-iTvcmHwfjWdJi
